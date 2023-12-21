@@ -1,7 +1,8 @@
-body {
-    font-family: 'Roboto', 'Raleway', sans-serif;
-    color: #FFFFFF;
-    background: #FFF;
+body{
+    font-family: 'Roboto','Raleway',sans-serif;
+    color: #FFF;
+    background-color: #FFF;
+
 }
 
 a {
