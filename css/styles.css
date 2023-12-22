@@ -1,8 +1,7 @@
 body{
-    font-family: "Roboto",sans-serif,"Releway",sans-serif;
+    font-family: "Roboto","Releway",sans-serif,sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-
 }
 
 a {
@@ -231,18 +230,9 @@ background-color:#4D5AE5;
 }
 
 .footer-logo-web{
-    color: #4D5AE5;
-    font-family: "Raleway", sans-serif;
-font-size: 18px;
-font-weight: 700;
-line-height: 1.16; /* 116.667% */
-letter-spacing: 0.03em;
-text-transform: uppercase;
-}
-
-.footer-logo {
-    color: #F4F4FD;
-    font-family: "Raleway", sans-serif;
+    
+color: #F4F4FD;
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -251,6 +241,16 @@ letter-spacing: 0.03em;
 text-transform: uppercase; 
 }
 
+
+.footer-logo {
+    color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.16; /* 116.667% */
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
 
 .footer-text {
     color:#F4F4FD;
