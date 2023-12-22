@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto","Releway",sans-serif,sans-serif;
+    font-family: "Roboto",sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -8,7 +8,7 @@ a {
     text-decoration: none;
 }
 
-ul {
+ul,li {
     list-style: none;
 }
 
@@ -18,18 +18,11 @@ ul {
 
 .visually-hidden {
     position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-
     white-space: nowrap;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
   }
-
 /* -----------------Header--------------- */
 .header-link-logo{
     color: #4D5AE5;
@@ -51,7 +44,6 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
-
 .header-menu-link {
     color: #2e2f42;
 font-size: 16px;
@@ -59,7 +51,6 @@ font-weight: 500;
 line-height: 1.5; /* 150% */
 letter-spacing: 0.02em;
 }
-
 
 .header-menu-link:hover {
     color: #404BBF;
@@ -105,11 +96,11 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
 }
 
-.button{
-background-color:#4D5AE5;
+.button {
 }
 
 .hero-buy-btn {
+    background-color: #4D5AE5;
     color: #FFF;
     font-family: inherit;
     font-size: 16px;
@@ -240,7 +231,6 @@ line-height: 1.16; /* 116.667% */
 letter-spacing: 0.03em;
 text-transform: uppercase; 
 }
-
 
 .footer-logo {
     color: #4D5AE5;
