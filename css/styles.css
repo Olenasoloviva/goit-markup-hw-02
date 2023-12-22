@@ -50,9 +50,12 @@ ul,li {
     letter-spacing: 0.02em;
 }
 
-.header-menu-link:focus,
-.header-menu-link:hover {
+.header-menu-link:hover{
     color: #404bbf;
+}
+
+.header-menu-link:focus{
+    color: #404bbf; 
 }
 
 .header-address{
