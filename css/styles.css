@@ -27,7 +27,7 @@ ul,li {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16; /* 116.667% */
+    line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -37,7 +37,7 @@ ul,li {
     color: #2e2f42;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16; /* 116.667% */
+    line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -52,10 +52,12 @@ ul,li {
 
 .header-menu-link:hover {
     background-color: #404BBF;
+    color: #404bbf;
 }
 
 .header-menu-link:focus {
     background-color: #404BBF;
+    color: #404bbf;
 }
 
 .header-address{
@@ -138,7 +140,7 @@ ul,li {
 /* ---------------/----------------- */
 /* --------------Taste--------------- */
 .taste {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .taste-title {
@@ -155,6 +157,7 @@ ul,li {
 }
 
 .taste-item {
+    background-color: #FFFFFF;
 }
 
 .taste-subtitle {
@@ -233,7 +236,7 @@ ul,li {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16; /* 116.667% */
+    line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -242,6 +245,6 @@ ul,li {
     color:#F4F4FD;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1.17; /* 150% */
+    line-height: 1.5; /* 150% */
     letter-spacing: 0.02em;
 }
