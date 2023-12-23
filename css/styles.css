@@ -252,23 +252,4 @@ visually-hidden {
     letter-spacing: 0.02em;
 }
 
-/* Видаляємо зайві правила */
-  /* position: ...; */
-  /* width: ...; */
-  /* height: ...; */
-  /* left: ...; */
-  /* top: ...; */
-  /* box-sizing: ...; */
-  /* display: ...; */
-  /* align-items: ...; */
-  /* padding: ...; */
-  /* flex-direction: ...; */
-  /* gap: ...; */
-  /* border-radius: ...; */
-  /* box-shadow: ...; */
-  /* order: ...; */
-  /* flex-grow: ...; */
-  /* border-bottom: ...; */
 
-  /* Залишаємо інші стилі */
-  
