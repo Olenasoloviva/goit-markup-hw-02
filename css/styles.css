@@ -16,10 +16,10 @@ ul,li {
     text-decoration: none;
 }
 
-/*.visually-hidden {
+visually-hidden {
     white-space: nowrap;
     overflow: hidden;
-  }*/
+  }
 /* -----------------Header--------------- */
 .header-link-logo{
     color: #4D5AE5;
