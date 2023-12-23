@@ -95,8 +95,8 @@ ul,li {
     
 }
 
-.button:focus,
-.button:hover{
+.hero-buy-btn:focus,
+.hero-buy-btn:hover{
     background-color: #404BBF;
 }
 
